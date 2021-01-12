@@ -1,4 +1,4 @@
-Django==1.10.6
+Django==1.11.29
 BeautifulSoup==3.2.1
 bs4==0.0.1
 Jinja2==2.7.2
